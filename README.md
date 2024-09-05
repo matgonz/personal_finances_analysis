@@ -19,12 +19,13 @@ Data Sources Used:
 [Dashboard Personal Finance Analysis](https://lookerstudio.google.com/u/0/reporting/d22c0111-6404-48f1-9fd3-2f2e4926aa3f/page/WHs9D)
 
 
-### Steps Planned
+### Planned Steps
 ✅ - Credit card pipeline <br/>
 ✅ - Dashboard with credit card view <br/>
 🛠️ - Account movimentation pipeline <br/>
 ... - Dashboard with account movimentation view <br/>
 ... - Dashboard with a summary page combining credit card and account movimentation data <br/>
+... - Automated upload data to dashboard after export and execute data pipeline manually
 
 
 ### Highlights
